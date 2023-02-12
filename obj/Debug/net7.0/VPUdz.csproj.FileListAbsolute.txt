@@ -1,0 +1,15 @@
+C:\Users\daniy\Documents\C#\VPUdz\bin\Debug\net7.0\VPUdz.exe
+C:\Users\daniy\Documents\C#\VPUdz\bin\Debug\net7.0\VPUdz.deps.json
+C:\Users\daniy\Documents\C#\VPUdz\bin\Debug\net7.0\VPUdz.runtimeconfig.json
+C:\Users\daniy\Documents\C#\VPUdz\bin\Debug\net7.0\VPUdz.dll
+C:\Users\daniy\Documents\C#\VPUdz\bin\Debug\net7.0\VPUdz.pdb
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.csproj.AssemblyReference.cache
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.AssemblyInfoInputs.cache
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.AssemblyInfo.cs
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.csproj.CoreCompileInputs.cache
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.dll
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\refint\VPUdz.dll
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.pdb
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\VPUdz.genruntimeconfig.cache
+C:\Users\daniy\Documents\C#\VPUdz\obj\Debug\net7.0\ref\VPUdz.dll
