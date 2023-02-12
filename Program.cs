@@ -1,6 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
-
-var homeworks = new List<Homework>() {
+﻿var homeworks = new List<Homework>() {
     new Homework{StudentID = 1, TeacherID = 1, Subject = "C++", Description="Do Bubble Sort", Mark=10},
     new Homework{StudentID = 2, TeacherID = 2, Subject = "C#", Description="Do Website ASP.NET", Mark=9},
     new Homework{StudentID = 3, TeacherID = 1, Subject = "C++", Description="Write Own Unreal Engine", Mark=11},
